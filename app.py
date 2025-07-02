@@ -12,7 +12,7 @@ from sklearn.metrics import mean_squared_error
 import warnings
 
 warnings.filterwarnings('ignore')
-st.set_option('deprecation.showPyplotGlobalUse', False)
+
 
 # Title
 st.title("🧮 Applied Probability and Statistics in E-commerce")
